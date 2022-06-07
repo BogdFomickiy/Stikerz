@@ -1,0 +1,4 @@
+.main-products.product-card {
+    border: 1px solid var(--main-text-color);
+    padding: 5p;
+}
